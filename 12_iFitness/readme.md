@@ -4,7 +4,7 @@
    * Contribute your creativity.
 
 
-> [iFitness](ifitness.netlify.app)
+> [iFitness](https://ifitness.netlify.app/)
 
 
 
